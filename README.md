@@ -7,7 +7,6 @@ This project is a **Chicken Invader-style** game created using **Turtle Graphics
 - **Turtle Graphics**: The game utilizes the Turtle module for graphics, providing a simple yet effective way to render the game environment and characters.
 - **Classic Gameplay**: The core mechanics are inspired by the iconic **Chicken Invaders** game, where the player controls a spaceship, shoots enemies, and dodges incoming fire.
 - **Multiple Levels**: The game includes multiple waves of enemies, each becoming progressively more difficult.
-- **Sound Effects**: Enjoy various sound effects when shooting or defeating enemies for a more immersive experience.
 
 ## How to Play
 1. **Launch the Game**:  
